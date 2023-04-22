@@ -79,6 +79,7 @@ try{
 */
 
 
+   console.log(user)
 
    console.log("I am at top of user.userType")
    console.log(user.userType)
